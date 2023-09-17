@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: hexagonal-cqrs-java
+  profiles:
+    active: local
